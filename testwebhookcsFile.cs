@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace BddBotTest
 {
-    // Represents a simplified code change (like a PR diff)
+    // Represents a simplified code change (like a PR diff)  test
     public class CodeChange
     {
         public string FileName { get; set; }
