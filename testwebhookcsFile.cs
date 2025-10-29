@@ -17,7 +17,7 @@ namespace BddBotTest
     {
         public string FileName { get; set; }
         public string ChangeType { get; set; } // Added, Removed, Modified
-        public string MethodName { get; set; }
+        public string MethodName { get; set; }// test comment 2
     }
 
     public static class BotInputGenerator
