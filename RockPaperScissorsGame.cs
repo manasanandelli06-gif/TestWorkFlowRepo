@@ -23,6 +23,7 @@ namespace SampleAlgorithms
         /// <summary>
         /// Simulates a round of Rock-Paper-Scissors against the computer.
         /// Returns the outcome of the round for the player.
+        /// test comment
         /// </summary>
         public GameResult Play(Move playerMove)
         {
